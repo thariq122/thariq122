@@ -8,7 +8,6 @@ class Thariq:
     major       = "Computer Engineering"
     status      = "Semester 4"
 ```
-```
 `// stack`
 
 ![Python](https://img.shields.io/badge/●_Python-1a1a2e?style=flat-square&logoColor=3572A5&labelColor=1a1a2e&color=1a1a2e&logo=python)&nbsp;
