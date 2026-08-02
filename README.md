@@ -1,16 +1,4 @@
 Greeting Folks!
-<div align="center">
-
-<!-- HEADER CARD -->
-<div align="center">
-<img src="header.svg" width="100%"/>
-</div>
-
-</div>
-
-<div align="center">
-
-</div>
 
 `// user `
 
