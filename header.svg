@@ -1,21 +1,75 @@
 <svg width="860" height="140" viewBox="0 0 860 140" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
   <rect width="860" height="140" rx="8" fill="#0d0d0d"/>
 
-  <!-- Avatar circle -->
-  <circle cx="90" cy="70" r="44" fill="#1a1a1a" stroke="#2a2a2a" stroke-width="1"/>
-  <text x="90" y="76" text-anchor="middle" font-family="monospace" font-size="22" font-weight="600" fill="#888888">T</text>
+  <!-- Avatar Border -->
+  <circle cx="90" cy="70" r="44"
+          fill="#1a1a1a"
+          stroke="#2a2a2a"
+          stroke-width="1"/>
+
+  <!-- Clip Path -->
+  <defs>
+    <clipPath id="avatarClip">
+      <circle cx="90" cy="70" r="42"/>
+    </clipPath>
+  </defs>
+
+  <!-- Profile Image -->
+  <image
+      href="reinerr.jpg"
+      x="48"
+      y="28"
+      width="84"
+      height="84"
+      preserveAspectRatio="xMidYMid slice"
+      clip-path="url(#avatarClip)" />
 
   <!-- Name -->
-  <text x="170" y="58" font-family="monospace" font-size="26" font-weight="600" fill="#ffffff">Muhammad Thariq Akbar</text>
+  <text
+      x="170"
+      y="58"
+      font-family="monospace"
+      font-size="26"
+      font-weight="600"
+      fill="#ffffff">
+      Muhammad Thariq Akbar
+  </text>
 
-  <!-- Handle + info row -->
-  <text x="172" y="84" font-family="monospace" font-size="13" fill="#555555">@thariqakbarr_</text>
+  <!-- Username -->
+  <text
+      x="170"
+      y="84"
+      font-family="monospace"
+      font-size="13"
+      fill="#555555">
+      @thariq122
+  </text>
 
-  <!-- Meta pills -->
-  <!-- Teknik Informatika · ITB -->
-  <rect x="170" y="98" width="194" height="24" rx="5" fill="#1a1a1a" stroke="#2a2a2a" stroke-width="1"/>
-  <circle cx="184" cy="110" r="4" fill="#888888"/>
-  <text x="193" y="115" font-family="monospace" font-size="12" fill="#888888">Computer Engineering @UPI</text>
+  <!-- Badge -->
+  <rect
+      x="170"
+      y="98"
+      width="220"
+      height="24"
+      rx="5"
+      fill="#1a1a1a"
+      stroke="#2a2a2a"
+      stroke-width="1"/>
 
-  
+  <circle
+      cx="184"
+      cy="110"
+      r="4"
+      fill="#888888"/>
+
+  <text
+      x="194"
+      y="115"
+      font-family="monospace"
+      font-size="12"
+      fill="#888888">
+      Computer Engineering @ UPI
+  </text>
+
 </svg>
