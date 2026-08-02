@@ -23,6 +23,5 @@ class Thariq:
 ![Git](https://img.shields.io/badge/●_Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 ![VS Code](https://img.shields.io/badge/●_VS_Code-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=007ACC&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 ![Figma](https://img.shields.io/badge/●_Figma-1a1a2e?style=flat-square&logo=figma&logoColor=F24E1E&labelColor=1a1a2e&color=1a1a2e)&nbsp;
-![Linux](https://img.shields.io/badge/●_Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 
 ---
