@@ -3,13 +3,13 @@
 
   <!-- Avatar circle -->
   <circle cx="90" cy="70" r="44" fill="#1a1a1a" stroke="#2a2a2a" stroke-width="1"/>
-  <text x="90" y="76" text-anchor="middle" font-family="monospace" font-size="22" font-weight="600" fill="#888888">GY</text>
+  <text x="90" y="76" text-anchor="middle" font-family="monospace" font-size="22" font-weight="600" fill="#888888">T</text>
 
   <!-- Name -->
   <text x="170" y="58" font-family="monospace" font-size="26" font-weight="600" fill="#ffffff">Muhammad Thariq Akbar</text>
 
   <!-- Handle + info row -->
-  <text x="172" y="84" font-family="monospace" font-size="13" fill="#555555">@ghinayantes · fromdearest</text>
+  <text x="172" y="84" font-family="monospace" font-size="13" fill="#555555">@thariqakbarr_</text>
 
   <!-- Meta pills -->
   <!-- Teknik Informatika · ITB -->
