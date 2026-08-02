@@ -15,7 +15,7 @@
   <!-- Computer Engineering @UPI -->
   <rect x="170" y="98" width="194" height="24" rx="5" fill="#1a1a1a" stroke="#2a2a2a" stroke-width="1"/>
   <circle cx="184" cy="110" r="4" fill="#888888"/>
-  <text x="193" y="115" font-family="monospace" font-size="12" fill="#888888">Computer Engineering @ UPI</text>
+  <text x="193" y="115" font-family="monospace" font-size="12" fill="#888888">Computer Engineering @UPI</text>
 
   
 </svg>
