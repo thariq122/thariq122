@@ -34,7 +34,6 @@ class Thariq:
 ![Dart](https://img.shields.io/badge/●_Dart-1a1a2e?style=flat-square&logo=dart&logoColor=0175C2&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 ![MySQL](https://img.shields.io/badge/●_MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 ![Git](https://img.shields.io/badge/●_Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032&labelColor=1a1a2e&color=1a1a2e)&nbsp;
-![VS Code](https://img.shields.io/badge/●_VS_Code-1a1a2e?style=flat-square&logo=visualstudiocode&logoColor=007ACC&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 ![Figma](https://img.shields.io/badge/●_Figma-1a1a2e?style=flat-square&logo=figma&logoColor=F24E1E&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 
 ---
