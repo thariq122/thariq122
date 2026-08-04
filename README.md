@@ -31,7 +31,6 @@ class Thariq:
 ![Tailwind CSS](https://img.shields.io/badge/●_Tailwind_CSS-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=06B6D4&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 ![PHP](https://img.shields.io/badge/●_PHP-1a1a2e?style=flat-square&logo=php&logoColor=777BB4&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 ![Laravel](https://img.shields.io/badge/●_Laravel-1a1a2e?style=flat-square&logo=laravel&logoColor=FF2D20&labelColor=1a1a2e&color=1a1a2e)&nbsp;
-![Flutter](https://img.shields.io/badge/●_Flutter-1a1a2e?style=flat-square&logo=flutter&logoColor=02569B&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 ![Dart](https://img.shields.io/badge/●_Dart-1a1a2e?style=flat-square&logo=dart&logoColor=0175C2&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 ![MySQL](https://img.shields.io/badge/●_MySQL-1a1a2e?style=flat-square&logo=mysql&logoColor=4479A1&labelColor=1a1a2e&color=1a1a2e)&nbsp;
 ![Git](https://img.shields.io/badge/●_Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032&labelColor=1a1a2e&color=1a1a2e)&nbsp;
