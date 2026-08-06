@@ -12,7 +12,12 @@ Greeting Folks!
 
 </div>
 
+<div align="center">   
+    
 [![wakatime](https://wakatime.com/badge/user/defd7bee-86c5-48a4-8c9c-739696b95ced.svg)](https://wakatime.com/@defd7bee-86c5-48a4-8c9c-739696b95ced)
+    
+</div>
+
 ---
 
 `// user `
