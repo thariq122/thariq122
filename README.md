@@ -1,4 +1,3 @@
-Greeting Folks!
 <div align="center">
 
 <!-- HEADER CARD -->
